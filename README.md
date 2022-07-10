@@ -1,2 +1,2 @@
 # Deep_learning
-Deep learning,Cat image recognition,Summer-Analytics-Week-5
+Deep learning,Neural Networks,Cat image recognition,Summer-Analytics-Week-5
